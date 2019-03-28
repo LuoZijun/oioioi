@@ -44,10 +44,3 @@ macro_rules! spanned_err {
                               column!() as usize))
     )
 }
-
-
-
-
-// pub fn ttt() -> Result<(), Error> {
-//     spanned_err!(MyError::new("又一个错误 :D"))
-// }
