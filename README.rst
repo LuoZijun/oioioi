@@ -4,7 +4,7 @@ oioioi
 
 原始版本: https://github.com/casey/oi
 
-.. code:: bash
+.. code:: rust
     
     #[macro_use]
     extern crate oioioi;
